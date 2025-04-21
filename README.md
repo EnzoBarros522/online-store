@@ -36,10 +36,6 @@
 
 - Clone repo
 
-```bash
-  git clone https://github.com/zachloh/e-commerce.git
-```
-
 - env variable: API_TOKEN, API_URL, STRIPE_SECRET_KEY, NEXT_PUBLIC_API_URL, NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY, NEXT_PUBLIC_ORDER_TOKEN
 
 ```
